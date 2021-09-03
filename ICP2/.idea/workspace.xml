@@ -5,20 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e1253895-484a-4c39-899e-53ad07cf033f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Ques1/.idea/WhatsApp.svg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ques1/facebook.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ques1/youtube.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ques2/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ques2/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ques2/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ques2/facebook.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ques2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ques2/notifications.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ques2/profile.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ques2/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ques3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ques3/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documents/Google_IMG.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documents/Q3_img.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documents/Welcome2_img.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documents/Welcome_img.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documents/head.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documents/ordered.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documents/span.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documents/unorder.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documents/video.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ques1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Ques1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ques3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Ques3/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,11 +73,14 @@
       <recent name="E:\Study\Web\ICP1\ICP2\Ques1\.idea" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html (2)">
+  <component name="RunManager" selected="JavaScript Debug.index.html (3)">
     <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ICP2/Ques1/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="index.html (2)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ICP2/Ques2/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html (3)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ICP2/Ques3/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ICP2/index.html" useBuiltInWebServerPort="true">
@@ -87,8 +88,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.index.html (2)" />
+        <item itemvalue="JavaScript Debug.index.html (3)" />
         <item itemvalue="JavaScript Debug.index.html (1)" />
+        <item itemvalue="JavaScript Debug.index.html (2)" />
         <item itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
@@ -101,7 +103,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1630604093343</updated>
-      <workItem from="1630604094721" duration="19656000" />
+      <workItem from="1630604094721" duration="23157000" />
     </task>
     <servers />
   </component>

@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1253895-484a-4c39-899e-53ad07cf033f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Documents/Google_IMG.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Documents/Q3_img.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Documents/Welcome2_img.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Documents/Welcome_img.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Documents/head.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Documents/ordered.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Documents/span.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Documents/unorder.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Documents/video.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ques1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Ques1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ques3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Ques3/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="e1253895-484a-4c39-899e-53ad07cf033f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -103,7 +90,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1630604093343</updated>
-      <workItem from="1630604094721" duration="23157000" />
+      <workItem from="1630604094721" duration="23582000" />
     </task>
     <servers />
   </component>
